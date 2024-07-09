@@ -1,5 +1,5 @@
 <?php
-namespace System;
+namespace Core;
 
 class Render {
     public static function Html($html) {
